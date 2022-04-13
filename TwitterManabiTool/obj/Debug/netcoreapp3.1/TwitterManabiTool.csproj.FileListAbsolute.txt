@@ -1,5 +1,4 @@
 C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\bin\Debug\netcoreapp3.1\TwitterManabiTool.exe
-C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\obj\Debug\netcoreapp3.1\TwitterManabiTool.csprojAssemblyReference.cache
 C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\obj\Debug\netcoreapp3.1\TwitterManabiTool.AssemblyInfoInputs.cache
 C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\obj\Debug\netcoreapp3.1\TwitterManabiTool.AssemblyInfo.cs
 C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\bin\Debug\netcoreapp3.1\TwitterManabiTool.deps.json
@@ -12,3 +11,12 @@ C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\bin\De
 C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\obj\Debug\netcoreapp3.1\TwitterManabiTool.csproj.CopyComplete
 C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\obj\Debug\netcoreapp3.1\TwitterManabiTool.dll
 C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\obj\Debug\netcoreapp3.1\TwitterManabiTool.pdb
+C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\obj\Debug\netcoreapp3.1\TwitterManabiTool.csproj.AssemblyReference.cache
+C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\obj\Debug\netcoreapp3.1\TwitterManabiTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\obj\Debug\netcoreapp3.1\TwitterManabiTool.csproj.CoreCompileInputs.cache
+C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\obj\Debug\netcoreapp3.1\TwitterManabiTool.genruntimeconfig.cache
+C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Hideyuki MATSUI\source\repos\TwitterManabiTool\TwitterManabiTool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
